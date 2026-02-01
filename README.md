@@ -1,14 +1,24 @@
 # Proyecto-de-Programacion
-Cliente(listo)
-Tarjeta Adicional(listo)
-Cupo de tarjetas(listo)
-Beneficios en entidades anexas (listo)
-Dinero retirado (listo)
-Calculos en uso de tarjetas (Tomando en cuenta beneficios) (listo)
-Calculos de pago de la tarjeta (Interes) (listo)
-Tiempo de pago de tarjetas (por hacer)
-Avances (Ligados a historial crediticio) (por hacer)
-Historial crediticio y Cupo Máximo y mínimo. (listo) Extra
+Cliente(listo).
+
+Tarjeta Adicional(listo).
+
+Cupo de tarjetas(listo).
+
+Beneficios en entidades anexas (listo).
+
+Dinero retirado (listo).
+
+Calculos en uso de tarjetas (Tomando en cuenta beneficios) (listo).
+
+Calculos de pago de la tarjeta (Interes) (listo).
+
+Tiempo de pago de tarjetas (listo).
+
+Avances (Ligados a historial crediticio) (listo).
+
+Historial crediticio y Cupo Máximo y mínimo. (listo).
+
 para compilar y ejecutar (esto se va actualizando con forme a las librerias) g++ main.cpp tarjetas.cpp clientes.cpp sistema.cpp archivos.cpp -o sistema.exe && ./sistema.exe
 para subir lo cambios a githup git add . git commit -m "Descripción cambios" git push
 para bajar los cambios git pull
